@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: ""
+    image: url("https://www.transparenttextures.com/patterns/batthern.png")
 ---
