@@ -1,87 +1,69 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: The effectiveness of non-pharmaceutical interventions, such as
+  mask-wearing and social distancing, as control measures for pandemic disease
+  relies upon a conscientious and well-informed public who are aware of and
+  prepared to follow advice. Unfortunately, public health messages can be
+  undermined by competing misinformation and conspiracy theories, spread virally
+  through communities that are already distrustful of expert opinion. In this
+  article, we propose and analyse a simple model of the interaction between
+  disease spread and awareness dynamics in a heterogeneous population composed
+  of both trusting individuals who seek better quality information and will take
+  precautionary measures, and distrusting individuals who reject better quality
+  information and have overall riskier behaviour. We show that, as the density
+  of the distrusting population increases, the model passes through a phase
+  transition to a state in which major outbreaks cannot be suppressed. Our work
+  highlights the urgent need for effective interventions to increase trust and
+  inform the public.
+slides: ""
+url_pdf: "https://royalsocietypublishing.org/doi/epdf/10.1098/rsif.2021.0668"
+publication_types:
+  - "2"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Tim Rogers and Christian A. Yates
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+publication: "*Journal of the Royal Society Interface*"
+summary: The effectiveness of non-pharmaceutical interventions, such as
+  mask-wearing and social distancing, as control measures for pandemic disease
+  relies upon a conscientious and well-informed public who are aware of and
+  prepared to follow advice. Unfortunately, public health messages can be
+  undermined by competing misinformation and conspiracy theories, spread virally
+  through communities that are already distrustful of expert opinion. In this
+  article, we propose and analyse a simple model of the inter-action between
+  disease spread and awareness dynamics in a heterogeneous population composed
+  of both trusting individuals who seek better quality information and will take
+  precautionary measures, and distrusting individuals who reject better quality
+  information and have overall riskier behaviour. We show that, as the density
+  of the distrusting population increases, the model passes through a phase
+  transition to a state in which major outbreaks cannot be suppressed. Our work
+  highlights the urgent need for effective interventions to increase trust and
+  inform the public.
+url_dataset: ""
+url_project: ""
+publication_short: In *JRSI*
+url_source: ""
+url_video: ""
+title: Misinformation can prevent the suppression of epidemics
+doi: https://doi.org/10.1098/rsif.2021.0668
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags:
+  - epidemic modelling
+  - awareness spread
+  - heterogeneous population
 projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  - behaviouralreaction
+image:
+  caption: "Creator: Ani_Ka  |  Credits: Getty Images"
+  focal_point: ""
+  preview_only: false
+  filename: featured.jpg
+date: 2022-10-21T06:35:04.114Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

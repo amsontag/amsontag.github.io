@@ -1,84 +1,57 @@
 ---
-# Display name
-title: Alice Bighetti 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Andrei Sontag
+role: PhD Student in Statistical Applied Mathematics
+avatar_filename: avatar.jpeg
+bio: My research interests include stochastic processes applied in biology, with
+  focus on ecology, evolution and collective behaviour.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Interacting Particle Systems
+  - Collective Behaviour
+  - Stochastic Processes
 social:
-  - icon: envelope
+  - display:
+      header: false
+    link: mailto:ams284@bath.ac.uk
     icon_pack: fas
-    link: '/#contact'
+    icon: envelope
+  - display:
+      header: true
+    link: https://orcid.org/0000-0002-7088-0491
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ams284_
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://github.com/amsontag
+    display:
+      header: false
+organizations:
+  - name: Statistical Applied Mathematics at Bath (SAMBa)
+    url: https://samba.ac.uk/
+education:
+  courses:
+    - course: MRes in Statistical Applied Mathematics
+      institution: University of Bath
+      year: 2021
+    - course: MSc in Physics
+      institution: UNESP
+      year: 2020
+    - course: BSc in Physics
+      institution: Universidade de São Paulo
+      year: 2017
+superuser: true
+last_name: Sontag
 highlight_name: true
+first_name: Andrei
+email: ams284@bath.ac.uk
 ---
+I am a PhD student in Statistical Applied Mathematics at the University of Bath. My research has been focused on stochastic processes applied in biology. In particular, I have investigated awareness spread in populations and how it affects the outcomes of epidemics. My current project has been on modelling the collective behaviour of locusts. This work has been supervised by {{< staticref "https://people.bath.ac.uk/ma3tcr/" "newtab" >}}Tim Rogers{{< /staticref >}} and {{< staticref "https://kityates.com/" "newtab" >}}Kit Yates{{< /staticref >}}.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+B﻿efore joining cohort 7 in the SAMBa CDT, I did an M.Sc. in Physics at the São Paulo State University (UNESP) and a B.Sc. in Physics at the University of São Paulo (USP).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+O﻿utside academia, I enjoy reading books, hiking and learning new languages.
