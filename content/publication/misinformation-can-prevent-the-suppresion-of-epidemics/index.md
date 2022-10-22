@@ -20,7 +20,8 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Tim Rogers and Christian A. Yates
+  - Tim Rogers
+  - Christian A. Yates
 author_notes:
   - Equal contribution
   - Equal contribution
