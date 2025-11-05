@@ -9,7 +9,7 @@ authors:
   - admin
   - Tim Rogers
   - Christian A. Yates
-publication: "In *Physical Review E*"
+publication: "In *Journal of Applied Probability*"
 featured: false
 tags:
   - Information Networks
@@ -32,5 +32,5 @@ image:
 publishDate: 2023-11-30T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: "https://doi.org/10.1017/jpr.2023.91"
+doi: "10.1017/jpr.2023.91"
 ---

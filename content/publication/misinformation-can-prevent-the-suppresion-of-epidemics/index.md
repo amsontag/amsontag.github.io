@@ -44,11 +44,11 @@ summary: The effectiveness of non-pharmaceutical interventions, such as
   inform the public.
 url_dataset: ""
 url_project: ""
-publication_short: In *JRSI*
+publication_short: In *Journal of the Royal Sociey Interface*
 url_source: ""
 url_video: ""
 title: Misinformation can prevent the suppression of epidemics
-doi: https://doi.org/10.1098/rsif.2021.0668
+doi: 10.1098/rsif.2021.0668
 featured: true
 tags:
   - epidemic modelling

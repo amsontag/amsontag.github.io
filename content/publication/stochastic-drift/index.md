@@ -51,5 +51,5 @@ image:
 publishDate: 2023-01-18T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: "https://doi.org/10.1103/PhysRevE.107.014128"
+doi: "10.1103/PhysRevE.107.014128"
 ---
