@@ -22,15 +22,9 @@ social:
     icon: linkedin
   - display:
       header: true
-    link: https://orcid.org/0000-0002-7088-0491
+    link: https://scholar.google.com/citations?user=ZuPG_mYAAAAJ&hl=en
     icon_pack: ai
-    icon: orcid
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ams284_
-    label: Follow me on Twitter
-    display:
-      header: true
+    icon: google-scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/amsontag
@@ -48,7 +42,7 @@ education:
       institution: University of Bath
       year: 2021
     - course: MSc in Physics
-      institution: UNESP
+      institution: ICTP-SAIFR / UNESP
       year: 2020
     - course: BSc in Physics
       institution: Universidade de São Paulo
