@@ -1,5 +1,5 @@
 ---
-title: "Pathways for overturning consensus in human collective decision-making"
+title: "ECMTB 2024" #"Pathways for overturning consensus in human collective decision-making"
 
 event: 12th European Conference on Mathematical and Theoretical Biology
 event_url: "https://ecmtb2024.org/"
