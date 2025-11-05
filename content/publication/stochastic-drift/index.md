@@ -9,8 +9,8 @@ abstract: "In this paper, we investigate a generalised model of N particles
   mean-field approximation even for large population sizes. We show that the
   disagreement between deterministic and stochastic solutions stems from
   finite-size effects that change propagation speed and cause the position of
-  the wave to fluctuate. These effects are shown to decay anomalously as $(\log
-  N)^2$ and $(\log N)^3$, respectively -- much slower than the usual $\sqrt{N}$
+  the wave to fluctuate. These effects are shown to decay anomalously as $(log
+  N)^2$ and $(log N)^3$, respectively -- much slower than the usual $sqrt{N}$
   factor. As a result, the accumulation of deleterious mutations in a Muller's
   ratchet and the loss of awareness in a population are processes that occur
   much faster than predicted by the corresponding deterministic models. The
