@@ -11,9 +11,14 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:ams284@bath.ac.uk
+    link: mailto:a.sontag@ucl.ac.uk
     icon_pack: fas
     icon: envelope
+  - display:
+      header: true
+    link: https://www.linkedin.com/in/andrei-sontag-phd-81802237a/
+    icon_pack: fab
+    icon: linkedin
   - display:
       header: true
     link: https://orcid.org/0000-0002-7088-0491
@@ -31,10 +36,13 @@ social:
     display:
       header: false
 organizations:
-  - name: Statistical Applied Mathematics at Bath (SAMBa)
-    url: https://samba.ac.uk/
+  - name: UCL Department of Mathematics
+    url: https://www.ucl.ac.uk/mathematical-physical-sciences/maths
 education:
   courses:
+    - course: PhD in Statistical Applied Mathematics
+      institution: University of Bath
+      year: 2024
     - course: MRes in Statistical Applied Mathematics
       institution: University of Bath
       year: 2021
