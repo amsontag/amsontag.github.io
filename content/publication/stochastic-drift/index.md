@@ -17,14 +17,14 @@ abstract: In this paper, we investigate a generalised model of N particles
   general applicability of our model suggests that this unexpected scaling could
   be important in a wide range of real-world applications.
 slides: ""
-url_pdf: https://arxiv.org/pdf/2209.08076.pdf
+url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.107.014128
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Tim Rogers
   - Christian A. Yates
-publication: "*arXiv*"
+publication: "In *Physical Review E*"
 featured: false
 tags:
   - Discrete waves
@@ -42,14 +42,14 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-date: 2022-10-21T07:13:12.421Z
+date: 2023-01-18T07:13:12.421Z
 url_slides: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2023-01-18T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: "https://doi.org/10.48550/arXiv.2209.08076"
+doi: "https://doi.org/10.1103/PhysRevE.107.014128"
 ---

@@ -23,4 +23,4 @@ main:
     weight: 70
   - name: Academic CV
     url: uploads/AS_Academic_CV.pdf
-    weight: 70
+    weight: 80
