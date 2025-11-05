@@ -16,12 +16,12 @@ social:
     icon_pack: fas
     icon: envelope
   - display:
-      header: true
+      header: false
     link: https://www.linkedin.com/in/andrei-sontag-phd-81802237a/
     icon_pack: fab
     icon: linkedin
   - display:
-      header: true
+      header: false
     link: https://scholar.google.com/citations?user=ZuPG_mYAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
