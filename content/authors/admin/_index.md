@@ -2,12 +2,13 @@
 title: Andrei Sontag
 role: Research Fellow
 avatar_filename: avatar.jpeg
-bio: My research interests include stochastic processes applied in biology, with
-  focus on ecology, evolution and collective behaviour.
+bio: My research interests include stochastic processes applied to complex systems with a focus on ecology, evolution, financial markets and collective behaviour.
 interests:
   - Interacting Particle Systems
   - Collective Behaviour
   - Stochastic Processes
+  - Financial Markets
+  - Data Science
 social:
   - display:
       header: false
@@ -60,6 +61,6 @@ email: a.sontag@ucl.ac.uk
 ---
 Over 7 years of research experience, leveraging data analysis and high-performance computation to develop stochastic models of complex real-world systems. Notably, developed methods to derive underlying stochastic differential equations from multidimensional data sets. Proficient in Python, C++, MATLAB and R. A team-worker and highly motivated to drive insights and innovation at the intersection of mathematics, data science, and quantitative research.
 
-Before joining cohort 7 in the SAMBa CDT, I did an M.Sc. in Physics at the São Paulo State University (UNESP) and a B.Sc. in Physics at the University of São Paulo (USP).
+Currently, a Research Fellow at UCL, developing mathematical models for the evolution of antimicrobial resistance (AMR) in heterogeneous environments. Previously, obtained a PhD and an MRes in Statistical Applied Mathematics from the SAMBa CDT in Bath, a MSc in Physics at the São Paulo State University (UNESP), and a BSc in Physics at the University of São Paulo (USP).
 
-Outside academia, I enjoy reading books, hiking and learning new languages.
+In my free time, I am honing out my skills in Data Science, reading, hiking or learning a new language.
