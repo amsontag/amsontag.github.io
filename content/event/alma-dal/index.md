@@ -2,7 +2,7 @@
 title: Alma Dal Co School
 
 event: Alma Dal Co School on Collective Behaviour
-event_url: https://almadalcoschool.github.io/
+event_url: "https://almadalcoschool.github.io/"
 
 location: Istituto Veneto di Scienze Lettere ed Arti
 address:
@@ -14,7 +14,7 @@ abstract: "Effective collective decision-making in human and animal groups requi
 
 #### **References:**
 
-[1] "A. Sontag, T. Rogers and C. A. Yates, Consensus Formation And Change Are Enhanced By Neutrality (Under Review), 2025."
+[1] A. Sontag, T. Rogers and C. A. Yates, Consensus Formation And Change Are Enhanced By Neutrality, 2025."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
