@@ -36,7 +36,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: '/alma-dal/Andrei_Sontag_Consensus.pdf'
+url_pdf: 'alma-dal.pdf'
 url_slides: ''
 url_video: ''
 ---
