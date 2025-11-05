@@ -1,6 +1,6 @@
 ---
-title: Stochastic drift in discrete waves of non-locally interacting-particles
-abstract: In this paper, we investigate a generalised model of N particles
+title: "Stochastic drift in discrete waves of non-locally interacting-particles"
+abstract: "In this paper, we investigate a generalised model of N particles
   undergoing second-order non-local interactions on a lattice. Our results have
   applications across many research areas, including the modelling of migration,
   information dynamics and Muller's ratchet -- the irreversible accumulation of
@@ -15,9 +15,9 @@ abstract: In this paper, we investigate a generalised model of N particles
   ratchet and the loss of awareness in a population are processes that occur
   much faster than predicted by the corresponding deterministic models. The
   general applicability of our model suggests that this unexpected scaling could
-  be important in a wide range of real-world applications.
+  be important in a wide range of real-world applications."
 slides: ""
-url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.107.014128
+url_pdf: "https://journals.aps.org/pre/pdf/10.1103/PhysRevE.107.014128"
 publication_types:
   - "2"
 authors:
