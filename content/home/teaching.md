@@ -13,7 +13,6 @@ title: Teaching
 subtitle: ''
 
 content:
-  page_type: event
   # Filter on criteria
   filters:
     folders:

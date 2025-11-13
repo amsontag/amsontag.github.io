@@ -1,38 +1,34 @@
 ---
 title: LTCC Mathematical Biology
 
-event: London Taught Course Centre for students in mathematical sciences
-event_url: "https://www.ltcc.ac.uk/"
-
-location: "University College London (UCL)"
-address:
-  street: ""
-  city: "London, UK"
-
-summary: Writen course notes, developed coding activities and delivered lectures in Diffusion, Random Walkers and Pattern Formation.
 abstract: 'Co-lead the course Mathematical Biology for the London Taught Course Centre for students in mathematical sciences. As part of the programme, I wrote course notes, developed coding activities and delivered lectures on the topics of Diffusion, Random Walks and Pattern Formation.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-06T13:00:00Z'
-date_end: '2025-10-13T15:00:00Z'
-all_day: false
+slides: ""
+url_pdf: "teaching/ltcc-2025/ltcc-mathbio-2025.pdf"
+authors:
+  - admin
+  - Philip Pearce
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: [admin, Philip Pearce]
-tags: [London Taugh Course Centre, Mathematical Biology, Lecture Notes]
-
-# Is this a featured talk? (true/false)
 featured: false
+tags:
+  - London Taugh Course Centre
+  - Mathematical Biology
+  - Lecture Notes
 
+summary: Writen course notes, developed coding activities and delivered lectures in Diffusion, Random Walkers and Pattern Formation.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+date: 2025-10-06T13:00:00Z
+url_slides: ""
 image:
-  caption: ''
-  focal_point: Right
-
-url_code: ''
-url_pdf: 'teaching/ltcc-2025/ltcc-mathbio-2025.pdf'
-url_slides: ''
-url_video: ''
+  caption: ""
+  focal_point: ""
+  preview_only: false
+publishDate: 2025-10-06T13:00:00Z
+url_poster: ""
+url_code: ""
+doi: ""
 ---
