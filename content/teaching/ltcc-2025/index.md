@@ -1,7 +1,7 @@
 ---
 title: LTCC Mathematical Biology
 
-abstract: 'Co-lead the course Mathematical Biology for the London Taught Course Centre for students in mathematical sciences. As part of the programme, I wrote course notes, developed coding activities and delivered lectures on the topics of Diffusion, Random Walks and Pattern Formation.'
+abstract: "Co-lead the course Mathematical Biology for the London Taught Course Centre for students in mathematical sciences. As part of the programme, I wrote course notes, developed coding activities and delivered lectures on the topics of Diffusion, Random Walks and Pattern Formation."
 
 slides: ""
 url_pdf: "teaching/ltcc-2025/ltcc-mathbio-2025.pdf"
