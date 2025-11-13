@@ -32,7 +32,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'ltcc-mathbio-2025.pdf'
+url_pdf: 'teaching/ltcc-2025/ltcc-mathbio-2025.pdf'
 url_slides: ''
 url_video: ''
 ---
