@@ -22,7 +22,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [admin, Philip Pearce]
-tags: [Alma Dal Co School, Collective Behaviour, Poster]
+tags: [London Taugh Course Centre, Mathematical Biology, Lecture Notes]
 
 # Is this a featured talk? (true/false)
 featured: false
